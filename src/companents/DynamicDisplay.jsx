@@ -41,7 +41,7 @@ const DynamicDisplay = () => {
     ];
 
     return (
-        <div className="out-side">
+        <div className='heat'>
             {cards.map(card => (
                 <div className='cards'>
                     <h5 >{card.free}</h5>
@@ -59,6 +59,7 @@ const DynamicDisplay = () => {
                 </div>
             ))}
         </div>
+    
     );
 };
 
