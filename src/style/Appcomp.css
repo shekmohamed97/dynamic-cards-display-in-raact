@@ -1,0 +1,47 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 15px black;
+}
+.cards{
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-left: 40px;
+    padding-right: 40px;
+    float: left;  
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:2px 2px 15px rgb(0, 0, 0)  ;
+
+}
+h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: xx-large;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    background-color: blue;    
+}
+div{
+    background-color: rgb(0, 140, 255);
+}
